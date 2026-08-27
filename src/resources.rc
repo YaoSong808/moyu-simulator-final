@@ -15,10 +15,11 @@ BEGIN
   BEGIN
     BLOCK "080404B0"
     BEGIN
-      VALUE "CompanyName", "摸鱼生产力研究所\0"
+      VALUE "CompanyName", "Yaosong808\0"
       VALUE "FileDescription", "摸鱼模拟器最终版\0"
       VALUE "FileVersion", "1.0.0\0"
       VALUE "InternalName", "MoyuSimulatorFinal\0"
+      VALUE "LegalCopyright", "Copyright (C) 2026 Yaosong808. All rights reserved.\0"
       VALUE "OriginalFilename", "摸鱼模拟器最终版.exe\0"
       VALUE "ProductName", "摸鱼模拟器最终版\0"
       VALUE "ProductVersion", "1.0.0\0"

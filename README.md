@@ -1,5 +1,7 @@
 # 摸鱼模拟器最终版
 
+**中文** | [English](README_EN.md)
+
 一个轻量的 Windows 桌面小工具：启动后伪装成右下角广告弹窗，可以将其他桌面软件拖入其中，并在弹窗内继续点击、滚动、输入或播放内容。
 
 ## 功能特点
@@ -83,4 +85,8 @@ cmake --build build
 
 请在遵守所在单位制度和软件使用条款的前提下合理使用。本项目按现状提供，不保证所有采用自定义渲染技术的第三方窗口均可嵌入。
 
-Copyright © 2026 YaoSong808. All rights reserved.
+## 作者
+
+**Yaosong808**
+
+Copyright © 2026 Yaosong808. All rights reserved.
