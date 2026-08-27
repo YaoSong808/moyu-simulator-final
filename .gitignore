@@ -1,0 +1,21 @@
+# Build output
+/build/
+/cmake-build-*/
+/work/
+/outputs/
+
+# Compiler artifacts
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.a
+*.lib
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.user
+*.suo
