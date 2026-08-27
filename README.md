@@ -13,7 +13,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/YaoSong808/moyu-simulator-final/releases/latest) 下载 `摸鱼模拟器最终版.exe`。
+前往 [Releases](https://github.com/YaoSong808/moyu-simulator-final/releases/latest) 下载 `MoyuSimulatorFinal-v1.0.0-win-x64.exe`。下载后可自行重命名为 `摸鱼模拟器最终版.exe`，不影响运行。
 
 系统要求：Windows 10/11，64 位。程序无需安装，下载后双击即可运行。
 
